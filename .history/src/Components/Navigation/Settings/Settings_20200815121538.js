@@ -3,11 +3,7 @@ import "./Settings.css";
 import Logo from "./icons8-settings.svg";
 
 const Settings = () => {
-    return (
-        <div>
-            <p>{Logo}</p>
-        </div>
-    );
+    return <div></div>;
 };
 
 export default Settings;

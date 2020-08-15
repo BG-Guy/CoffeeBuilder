@@ -1,6 +1,6 @@
 .Navigation {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     margin: 0px;
     background-color: #963c3c;
 }
